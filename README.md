@@ -28,7 +28,7 @@ What changes have we made：
     mvn clean package
     ```
 3. use [aws sam](https://aws.amazon.com/serverless/sam/) deploy project to [aws lambda](https://aws.amazon.com/lambda/)
-    ```
+    ```shell
     # sam build project
     sam build
     # deploy to aws lambda
