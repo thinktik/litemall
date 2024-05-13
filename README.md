@@ -3,6 +3,8 @@
 this project is based on [litemall](https://github.com/linlinjava/litemall),We have made some modifications to it so
 that it can run correctly and efficiently on AWS Lambda.
 
+*This project is only for learning purposes. If it is used for commercial purposes, please contact the original author*
+
 What changes have we made：
 
 1. Treat litemall as a regular Java web project and
@@ -16,6 +18,8 @@ What changes have we made：
 5. Add AI functionality to Litemall by using [AWS Bedlock](https://aws.amazon.com/bedrock)
 
 # How To deploy
+
+for deploy detils: [litemall doc](https://linlinjava.gitbook.io/litemall)
 
 ## Compile or Deploy Admin backend
 
